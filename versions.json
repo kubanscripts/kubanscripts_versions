@@ -1,6 +1,8 @@
 [
-    {
-        "script": "kuban_scoreboard",
-        "version": "1.0.0"
-    }
+  {
+    "script": "kuban_scoreboard",
+    "version": "1.0.1",
+    "note": "Improved threshold handling and performance.",
+    "required": false
+  }
 ]
